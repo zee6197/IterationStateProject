@@ -1,0 +1,16 @@
+C:\Users\zbg17\Desktop\repos\IterationStateProject\IterationStateProject\obj\Debug\net5.0\IterationStateProject.csproj.AssemblyReference.cache
+C:\Users\zbg17\Desktop\repos\IterationStateProject\IterationStateProject\obj\Debug\net5.0\IterationStateProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbg17\Desktop\repos\IterationStateProject\IterationStateProject\obj\Debug\net5.0\IterationStateProject.AssemblyInfoInputs.cache
+C:\Users\zbg17\Desktop\repos\IterationStateProject\IterationStateProject\obj\Debug\net5.0\IterationStateProject.AssemblyInfo.cs
+C:\Users\zbg17\Desktop\repos\IterationStateProject\IterationStateProject\obj\Debug\net5.0\IterationStateProject.csproj.CoreCompileInputs.cache
+C:\Users\zbg17\Desktop\repos\IterationStateProject\IterationStateProject\bin\Debug\net5.0\IterationStateProject.exe
+C:\Users\zbg17\Desktop\repos\IterationStateProject\IterationStateProject\bin\Debug\net5.0\IterationStateProject.deps.json
+C:\Users\zbg17\Desktop\repos\IterationStateProject\IterationStateProject\bin\Debug\net5.0\IterationStateProject.runtimeconfig.json
+C:\Users\zbg17\Desktop\repos\IterationStateProject\IterationStateProject\bin\Debug\net5.0\IterationStateProject.runtimeconfig.dev.json
+C:\Users\zbg17\Desktop\repos\IterationStateProject\IterationStateProject\bin\Debug\net5.0\IterationStateProject.dll
+C:\Users\zbg17\Desktop\repos\IterationStateProject\IterationStateProject\bin\Debug\net5.0\IterationStateProject.pdb
+C:\Users\zbg17\Desktop\repos\IterationStateProject\IterationStateProject\obj\Debug\net5.0\IterationStateProject.dll
+C:\Users\zbg17\Desktop\repos\IterationStateProject\IterationStateProject\obj\Debug\net5.0\refint\IterationStateProject.dll
+C:\Users\zbg17\Desktop\repos\IterationStateProject\IterationStateProject\obj\Debug\net5.0\IterationStateProject.pdb
+C:\Users\zbg17\Desktop\repos\IterationStateProject\IterationStateProject\obj\Debug\net5.0\IterationStateProject.genruntimeconfig.cache
+C:\Users\zbg17\Desktop\repos\IterationStateProject\IterationStateProject\obj\Debug\net5.0\ref\IterationStateProject.dll
